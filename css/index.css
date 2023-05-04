@@ -87,6 +87,7 @@ header h2 {
 header img{
     display: block;
     margin:1em  auto 2em;
+    max-width: 100%;
 }
 
 footer ul{
@@ -125,6 +126,8 @@ footer ul li{
     list-style-type: none;
     padding:0 1em;
 }
+
+
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {  
@@ -167,3 +170,4 @@ footer ul li{
         max-width: 1320px;        
     }
 }
+
